@@ -285,13 +285,7 @@ first you need to provide the input password, wallet, and amount. </p>
 <aside class="notice"><span class="glyphicon glyphicon-info-sign"></span>The list of code response can change along with the increase of
     product scope which is supported by cavallocoin.co.</aside>
 
-      </div>
-      <div class="dark-box">
-          <div class="lang-selector">
-                <a href="#" data-language-name="json">json</a>
-          </div>
-      </div>
-    </div>
+      
 	</body>
 </html>
 
