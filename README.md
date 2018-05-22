@@ -286,6 +286,5 @@ first you need to provide the input password, wallet, and amount. </p>
     product scope which is supported by cavallocoin.co.</aside>
 
       
-	</body>
 </html>
 
